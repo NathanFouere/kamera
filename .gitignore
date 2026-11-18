@@ -97,3 +97,7 @@ examples/kro/scenarios/k6_exhaustive.json
 # Paper-figure scripts, data, and narrative docs.
 # Preserved on the `paper-data` branch.
 experiments/coverage-curves/
+
+# nix / direnv
+.direnv/
+result
